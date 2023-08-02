@@ -28,7 +28,7 @@
 - Slack
 - Discord
 - Git, Github
-- IntelliJ, Vscods, Android Studio
+- IntelliJ, Vscode, Android Studio
 
 ## Reference
 - [Notion](https://hyungjoon.notion.site/9f992eaa66024f50bab28fefcd4bf2c8?pvs=4)
