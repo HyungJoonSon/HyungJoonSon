@@ -5,9 +5,16 @@
 
 ## History 
 - 동국대학교 컴퓨터공학전공 재학 (2019.03 ~ 진행중)
-- (산책로 공유 플랫폼) 내가 만든 산책로, Naemansan[동국대학교 캡스톤 밸류업 대상, 한국연구재단 LINC 3.0 캡스톤 경진대회 우수상] (2023.04 ~ ) 
-- (그림 일기 플랫폼) 그림판, Emodiary [SW중심대학 공동 해커톤 1위 대상] (2023.06. ~ )
-- (악약 복용 플랫폼) ViewPharm, YakAl (2023.07 ~ )
+- (산책로 공유 플랫폼) 내가 만든 산책로, Naemansan[동국대학교 캡스톤 밸류업 대상, 한국연구재단 LINC 3.0 캡스톤 경진대회 우수상]
+  - 2023.04 ~ 2023.08
+  - 2023.10 ~
+- (그림 일기 플랫폼) 그림판, Emodiary [SW중심대학 공동 해커톤 1위 대상]
+  - 2023.06.28 ~ 2023.06.30
+  - 2023.10 ~
+- (악약 복용 플랫폼) ViewPharm, YakAl
+  - 2023.07 ~
+- (GDSC DGU Site) Google Developer Student Club Site
+  - 2023.11 ~
 ## Tech Stack
 ### Back-End Framework
 - Django Rest Framework
@@ -18,8 +25,9 @@
 - Spring Admin
 - OpenCV
 ### DevOps
-- AWS - EC2
+- Amazon Web Services
 - Google Cloud Platform
+- Naver Cloud Paltform
 - Oracle Cloud
 - Docker
 - MySQL
