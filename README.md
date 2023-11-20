@@ -5,15 +5,16 @@
 
 ## History 
 - 동국대학교 컴퓨터공학전공 재학 (2019.03 ~ 진행중)
-- (산책로 공유 플랫폼) 내가 만든 산책로, Naemansan[동국대학교 캡스톤 밸류업 대상, 한국연구재단 LINC 3.0 캡스톤 경진대회 우수상]
+- GDSC DGU Server/Cloud Part Core Member (2023.09. ~)
+- (Project) 내가 만든 산책로, Naemansan [동국대학교 캡스톤 밸류업 대상, 한국연구재단 LINC 3.0 캡스톤 경진대회 우수상]
   - 2023.04 ~ 2023.08
   - 2023.10 ~
-- (그림 일기 플랫폼) 그림판, Emodiary [SW중심대학 공동 해커톤 1위 대상]
+- (Project) 그림판, 그림일기 Emodiary [SW중심대학 공동 해커톤 1위 대상]
   - 2023.06.28 ~ 2023.06.30
   - 2023.10 ~
-- (악약 복용 플랫폼) ViewPharm, YakAl
+- (Project) ViewPharm, 알약 복용 플랫폼 YakAl
   - 2023.07 ~
-- (GDSC DGU Site) Google Developer Student Club Site
+- (Project) Google Developer Student Club Site
   - 2023.11 ~
 - (Mentor) 구름톤 유니브 1기 멘토 (2023.11.18 ~ 2023.11.19.)
 
