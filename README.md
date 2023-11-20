@@ -15,6 +15,8 @@
   - 2023.07 ~
 - (GDSC DGU Site) Google Developer Student Club Site
   - 2023.11 ~
+- (Mentor) 구름톤 유니브 1기 멘토 (2023.11.18 ~ 2023.11.19.)
+
 ## Tech Stack
 ### Back-End Framework
 - Django Rest Framework
