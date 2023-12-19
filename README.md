@@ -4,8 +4,8 @@
 안녕하세요! Back-End 개발자 손형준입니다.
 
 ## History 
-- 동국대학교 컴퓨터공학전공 재학 (2019.03 ~ 진행중)
-- GDSC DGU Server/Cloud Part Core Member (2023.09. ~)
+- (Activity) 동국대학교 컴퓨터공학전공 재학 (2019.03 ~ 진행중)
+- (Activity) GDSC DGU Server/Cloud Part Core Member (2023.09. ~)
 - (Project) 내가 만든 산책로, Naemansan [동국대학교 캡스톤 밸류업 대상, 한국연구재단 LINC 3.0 캡스톤 경진대회 우수상]
   - 2023.04 ~ 2023.08
   - 2023.10 ~ 2023.12.
@@ -17,6 +17,7 @@
 - (Project) Google Developer Student Club Site
   - 2023.11 ~
 - (Mentor) 구름톤 유니브 1기 멘토 (2023.11.18 ~ 2023.11.19.)
+- (Mentor) 동국톤 멘토 (2023.12.18 ~ 2023.12.20.)
 
 ## Tech Stack
 ### Front-End Framework
