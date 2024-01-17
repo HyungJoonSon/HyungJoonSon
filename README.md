@@ -14,8 +14,8 @@
   - 2023.10 ~ 2023.12.
 - (Project) ViewPharm, 알약 복용 플랫폼 YakAl
   - 2023.07 ~
-- (Project) Google Developer Student Club Site
-  - 2023.11 ~
+- (Project) Nightary, 수면 배터리 [GDSC 눈꽃톤 대상]
+  - 2024.01.09 ~ 2024.01.13
 - (Mentor) 구름톤 유니브 1기 멘토 (2023.11.18 ~ 2023.11.19.)
 - (Mentor) 동국톤 멘토 (2023.12.18 ~ 2023.12.20.)
 
