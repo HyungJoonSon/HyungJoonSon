@@ -16,7 +16,7 @@
   - 2023.07 ~
 - (Project) Nightary, 수면 배터리 [GDSC 눈꽃톤 대상]
   - 2024.01.09 ~ 2024.01.13
-- (Project) E&I, Earth And I
+- (Project) E&I, Earth And I [GDSC Solution Challenge Top 100]
   - 2024.02.04 ~ 2024.02.26
 - (Mentor) 구름톤 유니브 1기 멘토 (2023.11.18 ~ 2023.11.19.)
 - (Mentor) 동국톤 멘토 (2023.12.18 ~ 2023.12.20.)
