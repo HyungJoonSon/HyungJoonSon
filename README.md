@@ -27,27 +27,25 @@
 - (Mentor) 동국톤 멘토 (2023.12.18 ~ 2023.12.20.)
 
 ## Tech Stack
-### Front-End Framework
+### Programming Language
+- Java
+- Kotlin
+- Dart
+- Python
+### Framework
+- SpringBoot
+- Django
 - Flutter
-- Android Native
-### Back-End Framework
-- Django Rest Framework
-- Spring Boot
-- Express.js
-### Library
-- Spring Security
-- Spring Admin
-- OpenCV
-### DevOps
-- Amazon Web Services
-- Google Cloud Platform
-- Naver Cloud Paltform
-- Oracle Cloud
-- Docker
+### Database
 - MySQL
-- Nginx
+- Redis
+### ETC
+- LangChain
+- Docker
+- RabbitMQ
+- Kafka
 ### Collaboration & Tools
 - Slack
 - Discord
 - Git, Github
-- IntelliJ, Vscode, Android Studio
+- IntelliJ, Android Studio, Vscode
